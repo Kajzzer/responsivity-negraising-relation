@@ -1,13 +1,14 @@
 # General information
-Author: Kaj Meijer
+Author: Kaj Meijer\
 Student number: 10509534
 
 Supervisor: Dr. C. Qing
 
-University: University of Amsterdam
+University: University of Amsterdam\
 Faculty: Institute for Logic, Language and Computation
 
-Thesis: The relation between responsivity and neg-raising (2021)
+
+Bachelor Kunstmatige Intelligentie thesis: The relation between responsivity and neg-raising (2021)
 
 # Description
 This repository contains the code used for the Bachelor thesis: The relation between responsivity and neg-raising (2021).
