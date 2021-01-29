@@ -23,4 +23,4 @@ The neg-raising measures were extracted from [the MegaNegRaising dataset](http:/
 # Notebooks
 [Customizable-responsive-negraising-normalized.ipynb](https://github.com/Kajzzer/responsivity-negraising-relation/blob/main/Customizable-responsive-negraising-normalized.ipynb) contains all code used for this thesis, except for the neg-raising analysis.
 
-[Negraising-analysis.ipynb](https://github.com/Kajzzer/responsivity-negraising-relation/blob/main/Negraising-analysis.ipynb) contains the anlysis of the neg-raising dataset used for this thesis.
+[Negraising-analysis.ipynb](https://github.com/Kajzzer/responsivity-negraising-relation/blob/main/Negraising-analysis.ipynb) contains the anlysis of the neg-raising dataset used for this thesis. This notebook created the data: [negraising-averages.csv](https://github.com/Kajzzer/responsivity-negraising-relation/blob/main/data/negraising-averages.csv)
